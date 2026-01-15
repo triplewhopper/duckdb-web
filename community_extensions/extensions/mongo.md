@@ -36,8 +36,8 @@ docs:
     joins, aggregations, and complex analytical operations.
 
 
-extension_star_count: 28
-extension_star_count_pretty: 28
+extension_star_count: 29
+extension_star_count_pretty: 29
 extension_download_count: 530
 extension_download_count_pretty: 530
 image: '/images/community_extensions/social_preview/preview_community_extension_mongo.png'
